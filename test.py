@@ -7,3 +7,4 @@ print(c)
 while count < 100:
 	count += c
 	print(count)	 
+print('ещё изменения')
