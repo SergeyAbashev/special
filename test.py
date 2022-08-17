@@ -4,7 +4,7 @@ c = a + b
 count = 0
 print(c)
 if c > 0:
-	while count < 100:
+	while count < 200:
 		count += c
 		print(count)	 
 
