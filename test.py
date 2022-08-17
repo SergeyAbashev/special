@@ -7,4 +7,5 @@ if c > 0:
 	while count < 200:
 		count += c
 		print(count)	 
+print('Ты справишся')
 
