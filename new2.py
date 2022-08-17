@@ -3,4 +3,4 @@ b = int(input('Введите число b: ')
 def divider (a,b):
 	res = a / b
 return res
-print(divider(a,b))
+print(divider(a,b) + 10)
